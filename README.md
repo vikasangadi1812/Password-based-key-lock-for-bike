@@ -19,4 +19,6 @@ You're simulation is ready to run
 
 Note:
 1. The program should be according to the PINs that you connected
-2. The program I am uploading is according to the pins that I have used, so it may not work           accordingly with you're requirements.
+2. The program I am uploading is according to the pins that I have used, so it may not work accordingly with you're requirements.
+3. I have programed the password as"1234".
+4. If you want to change it go to "newlock.c" file go to main function at line 049 there you'll find "char pass[5] = "1234";  change the numbers to which ever you want and then build the file run the simulation again. 
