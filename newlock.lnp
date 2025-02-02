@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"newlock.obj" 
+TO "newlock" 
+RAMSIZE(256) 
