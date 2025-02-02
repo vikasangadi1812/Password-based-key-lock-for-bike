@@ -46,7 +46,7 @@ void lcdint()
 
 void main()
 {
-	char pass[5] = "6969";
+	char pass[5] = "1234";
 	char pass2[5];
 	int i=0;
 	char *ptr;
